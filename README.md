@@ -34,7 +34,9 @@ Description: This project involves designing a webpage with a layout and appeara
 
 # Folder Structure
 
-/bharat_1: Contains files for the product landing page project.
+/bharat_1: Contains files for the Portfolio Website project.
+
+/bharat_2: Contains files for the Netflix-like Homepage project.
 
 # Instructions
 Each project is contained within its respective folder (/portfolio_website, /weather_website, /netflix_homepage). Check the README.md file within each folder for specific instructions on running and understanding the projects.
